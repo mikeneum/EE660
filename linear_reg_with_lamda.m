@@ -10,7 +10,7 @@ y_train=P_Open(i:i+11);
 y_train=standardizeCols(y_train);
 X_train=standardizeCols(X_train);
 
-
+%Create Test File
  
 X_test=X(359+j+i:i+j+370, :)
 X_test=standardizeCols(X_test);
