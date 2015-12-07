@@ -3,11 +3,11 @@ D=importdata('dow_jones_index.data')
 Price=zeros(750,4);
 Vol=zeros(750,1);
 P_Open=zeros(750,1);
-b=D.textdata;
+b=D.textdata
 j=0;
 for i=2:12:361
    i
-    ticker=b(i,2)
+    ticker=b(i,2);
 end
 
 
@@ -36,3 +36,5 @@ for i=1:750
 end
 filename='StockData.mat'
 save(filename);
+        
+
