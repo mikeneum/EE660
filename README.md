@@ -3,9 +3,14 @@ USC EE 660 Machine Learning - Mike Neuman
 
 Error vs 2nd Quarter Week
 https://github.com/mikeneum/EE660/blob/master/SVM_sigmoid_long.m
+
 https://github.com/mikeneum/EE660/blob/master/log_regression_long.m
+
 https://github.com/mikeneum/EE660/blob/master/LinearRegressionLong.m
+
 https://github.com/mikeneum/EE660/blob/master/linear_regression_with_best_lambda_long.m
+
+
 
 Error vs DJIA Company
 https://github.com/mikeneum/EE660/blob/master/SVM_sigmoid.m
